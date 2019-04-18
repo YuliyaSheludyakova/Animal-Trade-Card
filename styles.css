@@ -1,0 +1,52 @@
+/* add your CSS here */
+body {
+  font-family: Tahoma, sans-serif;
+}
+
+h2 {
+  margin: 0 0 15px;
+  padding: 5px;
+  padding-left: 72px;
+  border: 2px solid rgb(175,175,255);
+  border-radius: 3px;
+  font-family: "Comic Sans MS", sans-serif;
+  text-align: center;
+  background: rgb(200,200,255) url("number one.png") -5.5% 50%/30% no-repeat;
+}
+
+img {
+  width: 300px;
+  border-radius: 3px;
+  margin-bottom: 5px;
+}
+
+#container {
+  width: 300px;
+  padding: 15px;
+  border: 5px outset rgb(210,210,255);
+  border-radius: 8px;
+  margin: 20px;
+  background: url("background.jpg") 100% 100%;
+  box-shadow: 8px 8px 10px lightgrey;
+}
+
+/*Info-box Content*/
+#info-box {
+  padding: 0 10px 0;
+  border: 1.5px solid rgb(180,180,255);
+  border-radius: 3px;
+  background: rgb(215,215,255);
+}
+
+#interesting {
+  font-style: italic;
+}
+
+.label {
+  font-weight: bold;
+}
+
+ul {
+  list-style: none;
+  padding: 0;
+}
