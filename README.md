@@ -12,5 +12,5 @@ You can access the live project [here](https://yuliyasheludyakova.github.io/Anim
 
 ## Quickstart
 * Download or Clone the Repository
-* Open index.html in your browser
+* Open **_index.html_** in your browser
 * _**OR**_ access the live project [here](https://yuliyasheludyakova.github.io/Animal-Trading-Card/)
